@@ -91,4 +91,4 @@
      <img width="1878" height="770" alt="image" src="https://github.com/user-attachments/assets/d3596dac-4c87-4da3-b1ec-498faa1edb38" />
 
 
-3. После внесения изменнеий не забудьте проверить, что в _event-config.json_ для данного события (even1 или even2) переменная **"isVisible"** соответствует **true**.
+3. После внесения изменений не забудьте проверить, что в _event-config.json_ для данного события (even1 или even2) переменная **"isVisible"** соответствует **true**.
