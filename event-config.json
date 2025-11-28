@@ -1,0 +1,8 @@
+{
+  "event1": {
+    "isVisible": true
+  },
+  "event2": {
+    "isVisible": false
+  }
+}
